@@ -1,0 +1,15 @@
+[{
+		"name": "Thermal Printer",
+		"alias": "termal-printer",
+		"description": "Thermall printer functionality",
+		"image": "https://cdn4.iconfinder.com/data/icons/dragon/512/Printer.png",
+		"link": "https://codecanyon.net/user/mobidonia/portfolio"
+	},
+	{
+		"name": "PDF",
+		"alias": "pdf-printer",
+		"description": "PDF printer functionality",
+		"image": "https://cdn1.iconfinder.com/data/icons/hawcons/32/699147-icon-70-document-file-pdf-512.png",
+		"link": "https://codecanyon.net/user/mobidonia"
+	}
+]
