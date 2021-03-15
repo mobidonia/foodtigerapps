@@ -13,5 +13,13 @@
 		"image": "https://i.imgur.com/pgeD149.jpg",
 		"link": "https://codecanyon.net/user/mobidonia",
 		"price":"$49"
+	},
+ 	{
+		"name": "PDF Invoice",
+		"alias": "pdf-invoice",
+		"description": "PDF recepie maker",
+		"image": "https://i.imgur.com/pgeD149.jpg",
+		"link": "https://codecanyon.net/user/mobidonia",
+		"price":"Free"
 	}
 ]
