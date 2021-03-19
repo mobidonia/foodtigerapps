@@ -6,5 +6,13 @@
 		"image": "https://i.imgur.com/7g8X3ll.jpg",
 		"link": "https://gum.co/hgUjZ",
 		"price":"Free"
+	},
+	{
+		"name": "Impressum",
+		"alias": "impressum",
+		"description": "Add Impressum on the bottom of the menu",
+		"image": "https://i.imgur.com/oUdSkIZ.jpg",
+		"link": "https://gum.co/BYJuD",
+		"price":"Free"
 	}
 ]
