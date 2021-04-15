@@ -104,5 +104,14 @@
 		"image": "https://i.imgur.com/IPESASN.jpg",
 		"link": "https://gum.co/virSu",
 		"price":"Free"
+	},
+	{
+		
+		"name": "PayFast Payments",
+		"alias": "payfast",
+		"description": "Accept payments for orders via PayFast",
+		"image": "https://i.imgur.com/TUzPnfb.jpg",
+		"link": "https://gum.co/qMnRb",
+		"price":"Free"
 	}
 ]
