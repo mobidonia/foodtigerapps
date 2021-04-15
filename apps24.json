@@ -41,5 +41,23 @@
 		"image": "https://i.imgur.com/91sjvYq.jpg",
 		"link": "https://codecanyon.net/user/mobidonia/portfolio",
 		"price":"Soon"
+	},
+	{
+		
+		"name": "PayPal Payments",
+		"alias": "paypal",
+		"description": "Accept payments for orders via PayPal",
+		"image": "https://i.imgur.com/zelnjW8.jpg",
+		"link": "https://gum.co/iUZAu",
+		"price":"Free"
+	},
+    	{
+		
+		"name": "PayPal Subscribe",
+		"alias": "paypal-subscribe",
+		"description": "Accept subscriptions for plans via PayPal",
+		"image": "https://i.imgur.com/NeZ2jhj.jpg",
+		"link": "https://gum.co/IksoFZ",
+		"price":"Free"
 	}
 ]
