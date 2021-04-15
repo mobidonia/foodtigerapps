@@ -77,5 +77,14 @@
 		"image": "https://i.imgur.com/px8tL7e.jpg",
 		"link": "https://gum.co/BUsLu",
 		"price":"Free"
+	},
+	{
+		
+		"name": "Razorpay Payments",
+		"alias": "razorpay",
+		"description": "Accept payments for orders via Razorpay",
+		"image": "https://i.imgur.com/cDmximk.jpg",
+		"link": "https://gum.co/LcQov",
+		"price":"Free"
 	}
 ]
