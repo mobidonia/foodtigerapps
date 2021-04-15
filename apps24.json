@@ -86,5 +86,14 @@
 		"image": "https://i.imgur.com/cDmximk.jpg",
 		"link": "https://gum.co/LcQov",
 		"price":"Free"
+	},
+	{
+		
+		"name": "Mercadopago Payments",
+		"alias": "mercadopago",
+		"description": "Accept payments for orders via Mercadopago",
+		"image": "https://i.imgur.com/BEBNbQT.jpg",
+		"link": "https://gum.co/bOpIe",
+		"price":"Free"
 	}
 ]
