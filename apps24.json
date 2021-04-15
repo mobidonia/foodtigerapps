@@ -95,5 +95,14 @@
 		"image": "https://i.imgur.com/BEBNbQT.jpg",
 		"link": "https://gum.co/bOpIe",
 		"price":"Free"
+	},
+	{
+		
+		"name": "Paystack Payments",
+		"alias": "paystack",
+		"description": "Accept payments for orders via Paystack",
+		"image": "https://i.imgur.com/IPESASN.jpg",
+		"link": "https://gum.co/virSu",
+		"price":"Free"
 	}
 ]
