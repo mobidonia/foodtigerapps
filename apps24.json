@@ -32,5 +32,14 @@
 		"image": "https://i.imgur.com/2jTCYsg.jpg",
 		"link": "https://gum.co/GpTmO",
 		"price":"Free"
+	},
+	{
+		
+		"name": "Automated Printing",
+		"alias": "print-node",
+		"description": "Automated printing on thermal and regular printer. Via printnode.com",
+		"image": "https://i.imgur.com/91sjvYq.jpg",
+		"link": "https://codecanyon.net/user/mobidonia/portfolio",
+		"price":"Soon"
 	}
 ]
