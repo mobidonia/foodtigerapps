@@ -59,5 +59,14 @@
 		"image": "https://i.imgur.com/NeZ2jhj.jpg",
 		"link": "https://gum.co/IksoFZ",
 		"price":"Free"
+	},
+	{
+		
+		"name": "Paddle Subscribe",
+		"alias": "paddle-subscribe",
+		"description": "Accept subscriptions for plans via Paddle",
+		"image": "https://i.imgur.com/YLEU2Ht.jpg",
+		"link": "https://gum.co/KrbHn",
+		"price":"Free"
 	}
 ]
