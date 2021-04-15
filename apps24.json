@@ -1,1 +1,55 @@
 
+[
+ 	{
+		"name": "PDF Invoice",
+		"alias": "pdf-invoice",
+		"description": "Print orders bills on printer or export in PDF",
+		"image": "https://i.imgur.com/7g8X3ll.jpg",
+		"link": "https://gum.co/hgUjZ",
+		"price":"Free"
+	},
+	{
+		"name": "Impressum",
+		"alias": "impressum",
+		"description": "Add Impressum on the bottom of the menu",
+		"image": "https://i.imgur.com/oUdSkIZ.jpg",
+		"link": "https://gum.co/BYJuD",
+		"price":"Free"
+	},
+	{
+		"name": "Vendor app",
+		"alias": "vendor_app",
+		"description": "Give your vendors mobile app where they can manage the orders ( iOS + Android )",
+		"image": "https://i.imgur.com/HvU0w66.jpg",
+		"link": "https://codecanyon.net/item/vendor-app-whatsapp-food-foodtiger-qr-menu-maker/31223842",
+		"price":"49$"
+	},
+  [
+ 	{
+		"name": "PDF Invoice",
+		"alias": "pdf-invoice",
+		"description": "Print orders bills on printer or export in PDF",
+		"image": "https://i.imgur.com/7g8X3ll.jpg",
+		"link": "https://gum.co/hgUjZ",
+		"price":"Free"
+	},
+	{
+		"name": "Impressum",
+		"alias": "impressum",
+		"description": "Add Impressum on the bottom of the menu",
+		"image": "https://i.imgur.com/oUdSkIZ.jpg",
+		"link": "https://gum.co/BYJuD",
+		"price":"Free"
+	},
+	{
+		
+		"name": "Custom Timezone",
+		"alias": "timezone",
+		"description": "Give your vendors option to set their own timezone",
+		"image": "https://i.imgur.com/2jTCYsg.jpg",
+		"link": "https://gum.co/GpTmO",
+		"price":"Free"
+	}
+]
+
+]
