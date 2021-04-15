@@ -68,5 +68,14 @@
 		"image": "https://i.imgur.com/YLEU2Ht.jpg",
 		"link": "https://gum.co/KrbHn",
 		"price":"Free"
+	},
+	{
+		
+		"name": "Mollie Payments",
+		"alias": "mollie",
+		"description": "Accept payments for orders via Mollie",
+		"image": "https://i.imgur.com/px8tL7e.jpg",
+		"link": "https://gum.co/BUsLu",
+		"price":"Free"
 	}
 ]
