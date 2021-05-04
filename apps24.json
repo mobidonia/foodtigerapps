@@ -1,5 +1,13 @@
 
 [
+	{
+		"name": "WebHooks",
+		"alias": "webhooks",
+		"description": "Integrate your project with hundreds of tools via Zappier  Integromat or custom API.",
+		"image": "https://i.imgur.com/het0uiv.jpg",
+		"link": "https://codecanyon.net/item/webhooks-plugin-for-foodtiger-qr-menu-maker-and-whatsapp-food/31978376",
+		"price":"49$"
+	},
  	{
 		"name": "PDF Invoice",
 		"alias": "pdf-invoice",
