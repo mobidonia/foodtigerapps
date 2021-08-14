@@ -1,5 +1,22 @@
 
 [
+	
+	{
+		"name": "Google Translate",
+		"alias": "googletranslate",
+		"description": "Translate your restaurant menus into multiple languages. You can select what languages you want to display. ",
+		"image": "https://public-files.gumroad.com/fsvtl9ercdqkfng0qwrgvnwccris",
+		"link": "https://mobidonia.gumroad.com/l/googletranslate",
+		"price":"29$"
+	},
+	{
+		"name": "Staff",
+		"alias": "staff",
+		"description": "Add staff to each restaurant, so they can manage the orders.",
+		"image": "https://public-files.gumroad.com/13xmvdpzh2yv6a2f4ynzq2oul895",
+		"link": "https://mobidonia.gumroad.com/l/staffmodule",
+		"price":"39$"
+	},
 	{
 		"name": "WebHooks",
 		"alias": "webhooks",
@@ -57,6 +74,14 @@
 		"description": "Accept payments for orders via PayPal",
 		"image": "https://i.imgur.com/zelnjW8.jpg",
 		"link": "https://gum.co/iUZAu",
+		"price":"Free"
+	},
+	{
+		"name": "FlutterWave",
+		"alias": "flutterwave",
+		"description": "Accept payments for orders via FlutterWave",
+		"image": "https://public-files.gumroad.com/rxhay4x5aswi3xvg91815j3v6xsi",
+		"link": "https://mobidonia.gumroad.com/l/flutterwavepayments",
 		"price":"Free"
 	},
     	{
