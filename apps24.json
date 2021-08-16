@@ -12,6 +12,7 @@
 	},
 	{
 		"name": "Staff",
+		"gr":"pgUHA",
 		"alias": "staff",
 		"description": "Add staff to each restaurant, so they can manage the orders.",
 		"image": "https://public-files.gumroad.com/13xmvdpzh2yv6a2f4ynzq2oul895",
@@ -29,6 +30,7 @@
  	{
 		"name": "PDF Invoice",
 		"alias": "pdf-invoice",
+		"gr":"hgUjZ",
 		"description": "Print orders bills on printer or export in PDF",
 		"image": "https://i.imgur.com/7g8X3ll.jpg",
 		"link": "https://gum.co/hgUjZ",
@@ -37,6 +39,7 @@
 	{
 		"name": "Impressum",
 		"alias": "impressum",
+		"gr":"BYJuD",
 		"description": "Add Impressum on the bottom of the menu",
 		"image": "https://i.imgur.com/oUdSkIZ.jpg",
 		"link": "https://gum.co/BYJuD",
@@ -54,6 +57,7 @@
 		
 		"name": "Custom Timezone",
 		"alias": "timezone",
+		"gr":"GpTmO",
 		"description": "Give your vendors option to set their own timezone",
 		"image": "https://i.imgur.com/2jTCYsg.jpg",
 		"link": "https://gum.co/GpTmO",
@@ -72,6 +76,7 @@
 		
 		"name": "PayPal Payments",
 		"alias": "paypal",
+		"gr":"iUZAu",
 		"description": "Accept payments for orders via PayPal",
 		"image": "https://i.imgur.com/zelnjW8.jpg",
 		"link": "https://gum.co/iUZAu",
@@ -80,6 +85,7 @@
 	{
 		"name": "FlutterWave",
 		"alias": "flutterwave",
+		"gr":"ETrYd",
 		"description": "Accept payments for orders via FlutterWave",
 		"image": "https://public-files.gumroad.com/rxhay4x5aswi3xvg91815j3v6xsi",
 		"link": "https://mobidonia.gumroad.com/l/flutterwavepayments",
@@ -89,6 +95,7 @@
 		
 		"name": "PayPal Subscribe",
 		"alias": "paypal-subscribe",
+		"gr":"IksoFZ",
 		"description": "Accept subscriptions for plans via PayPal",
 		"image": "https://i.imgur.com/NeZ2jhj.jpg",
 		"link": "https://gum.co/IksoFZ",
@@ -98,6 +105,7 @@
 		
 		"name": "Paddle Subscribe",
 		"alias": "paddle-subscribe",
+		"gr":"KrbHn",
 		"description": "Accept subscriptions for plans via Paddle",
 		"image": "https://i.imgur.com/YLEU2Ht.jpg",
 		"link": "https://gum.co/KrbHn",
@@ -107,6 +115,7 @@
 		
 		"name": "Mollie Payments",
 		"alias": "mollie",
+		"gr":"BUsLu",
 		"description": "Accept payments for orders via Mollie",
 		"image": "https://i.imgur.com/px8tL7e.jpg",
 		"link": "https://gum.co/BUsLu",
@@ -116,6 +125,7 @@
 		
 		"name": "Razorpay Payments",
 		"alias": "razorpay",
+		"gr":"LcQov",
 		"description": "Accept payments for orders via Razorpay",
 		"image": "https://i.imgur.com/cDmximk.jpg",
 		"link": "https://gum.co/LcQov",
@@ -125,6 +135,7 @@
 		
 		"name": "Mercadopago Payments",
 		"alias": "mercadopago",
+		"gr":"bOpIe",
 		"description": "Accept payments for orders via Mercadopago",
 		"image": "https://i.imgur.com/BEBNbQT.jpg",
 		"link": "https://gum.co/bOpIe",
@@ -134,6 +145,7 @@
 		
 		"name": "Paystack Payments",
 		"alias": "paystack",
+		"gr":"virSu",
 		"description": "Accept payments for orders via Paystack",
 		"image": "https://i.imgur.com/IPESASN.jpg",
 		"link": "https://gum.co/virSu",
@@ -143,6 +155,7 @@
 		
 		"name": "PayFast Payments",
 		"alias": "payfast",
+		"gr":"qMnRb",
 		"description": "Accept payments for orders via PayFast",
 		"image": "https://i.imgur.com/TUzPnfb.jpg",
 		"link": "https://gum.co/qMnRb",
