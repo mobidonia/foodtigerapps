@@ -1,6 +1,14 @@
 
 [
-	
+	{
+		"name": "Stripe Link Checkout",
+		"gr":"PcoEZ",
+		"alias": "stripelinks",
+		"description": "This module will enable Stripe Payments in WhatsApp and Stripe Payments in the client mobile app of FoodTiger.",
+		"image": "https://public-files.gumroad.com/1acsae9tx0oh5wcycfhf0mb2n471",
+		"link": "https://mobidonia.gumroad.com/l/stripech",
+		"price":"Free"
+	},
 	{
 		"name": "Google Translate",
 		"gr":"Pncbf",
