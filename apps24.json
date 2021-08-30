@@ -2,6 +2,16 @@
 [
 	{
 		"latestVersion":"1.0",	
+		"name": "Vendor Cloner",
+		"gr":"pVCjei",
+		"alias": "cloner",
+		"description": "Easily clone/duplicate the vendor together with the setting and the full menu. Useful for multi-branch / similar vendors.",
+		"image": "https://public-files.gumroad.com/lntl7jl89ak4j15u5n3jndtf0jph",
+		"link": "https://mobidonia.gumroad.com/l/clonerft",
+		"price":"39$"
+	},
+	{
+		"latestVersion":"1.0",	
 		"name": "Stripe Link Checkout",
 		"gr":"PcoEZ",
 		"alias": "stripelinks",
@@ -11,7 +21,6 @@
 		"price":"Free"
 	},
 	{
-		"rule":"iswp",
 		"latestVersion":"1.0",	
 		"name": "Google Translate",
 		"gr":"Pncbf",
@@ -68,6 +77,26 @@
 		"image": "https://i.imgur.com/HvU0w66.jpg",
 		"link": "https://codecanyon.net/item/vendor-app-whatsapp-food-foodtiger-qr-menu-maker/31223842",
 		"price":"49$"
+	},
+	{
+		"rule":"isft",
+		"latestVersion":"1.0",	
+		"name": "Driver app",
+		"alias": "driver_app",
+		"description": "Give your driver mobile app where they can manage the orders ( iOS + Android )",
+		"image": "https://i.imgur.com/eotWSF0.jpg",
+		"link": "hhttps://codecanyon.net/item/driver-companion-app-for-foodtiger-delivery/26415042",
+		"price":"49$"
+	},
+	{
+		"rule":"isft",
+		"latestVersion":"1.0",	
+		"name": "Client app",
+		"alias": "client_app",
+		"description": "Give your clients mobile app where they can make orders from your vendors ( iOS + Android )",
+		"image": "https://i.imgur.com/eotWSF0.jpg",
+		"link": "https://codecanyon.net/item/food-delivery-reactnative-foodtiger/26796029",
+		"price":"59$"
 	},
 	{
 		
