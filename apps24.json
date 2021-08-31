@@ -2,6 +2,16 @@
 [
 	{
 		"latestVersion":"1.0",	
+		"name": "Expenses",
+		"gr":"NwxgX",
+		"alias": "expenses",
+		"description": "Track your expenses grouped by vendors and categories.",
+		"image": "https://public-files.gumroad.com/f95bu3a4g1ih306tr6pfmhrsv5p5",
+		"link": "https://mobidonia.gumroad.com/l/expensesft",
+		"price":"49$"
+	},
+	{
+		"latestVersion":"1.0",	
 		"name": "Vendor Cloner",
 		"gr":"pVCjei",
 		"alias": "cloner",
