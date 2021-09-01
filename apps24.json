@@ -53,10 +53,11 @@
 	{
 		"latestVersion":"1.0",	
 		"name": "WebHooks",
+		"gr":"JvECq",
 		"alias": "webhooks",
 		"description": "Integrate your project with hundreds of tools via Zappier  Integromat or custom API.",
 		"image": "https://i.imgur.com/het0uiv.jpg",
-		"link": "https://codecanyon.net/item/webhooks-plugin-for-foodtiger-qr-menu-maker-and-whatsapp-food/31978376",
+		"link": "https://mobidonia.gumroad.com/l/webhooksft",
 		"price":"49$"
 	},
  	{
@@ -85,18 +86,20 @@
 		"alias": "vendor_app",
 		"description": "Give your vendors mobile app where they can manage the orders ( iOS + Android )",
 		"image": "https://i.imgur.com/HvU0w66.jpg",
-		"link": "https://codecanyon.net/item/vendor-app-whatsapp-food-foodtiger-qr-menu-maker/31223842",
-		"price":"49$"
+		"link": "https://gum.co/BrCxE",
+		"gr":"BrCxE",
+		"price":"69$"
 	},
 	{
 		"rule":"isft",
 		"latestVersion":"1.0",	
 		"name": "Driver app",
 		"alias": "driver_app",
-		"description": "Give your driver mobile app where they can manage the orders ( iOS + Android )",
+		"description": "Give your drivers mobile app where they can manage the orders ( iOS + Android )",
 		"image": "https://i.imgur.com/eotWSF0.jpg",
-		"link": "hhttps://codecanyon.net/item/driver-companion-app-for-foodtiger-delivery/26415042",
-		"price":"49$"
+		"link": "https://gum.co/KhcPaf",
+		"gr":"KhcPaf",
+		"price":"69$"
 	},
 	{
 		"rule":"isft",
@@ -105,8 +108,9 @@
 		"alias": "client_app",
 		"description": "Give your clients mobile app where they can make orders from your vendors ( iOS + Android )",
 		"image": "https://i.imgur.com/Z6CfSi7.jpg",
-		"link": "https://codecanyon.net/item/food-delivery-reactnative-foodtiger/26796029",
-		"price":"59$"
+		"link": "https://gum.co/IYwxI",
+		"gr":"IYwxI",
+		"price":"79$"
 	},
 	{
 		
@@ -124,9 +128,10 @@
 		"latestVersion":"1.0",	
 		"name": "Automated Printing",
 		"alias": "print-node",
+		"gr":"uELYLr",
 		"description": "Automated printing on thermal and regular printer. Via printnode.com",
 		"image": "https://i.imgur.com/lDVhR9p.jpg",
-		"link": "https://codecanyon.net/item/thermal-printer-module-for-foodtiger-whatsapp-food-and-qr-menu/31788757",
+		"link": "https://mobidonia.gumroad.com/l/thermalft",
 		"price":"49$"
 	},
 	{
