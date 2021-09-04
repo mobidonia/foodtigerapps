@@ -2,6 +2,16 @@
 [
 	{
 		"latestVersion":"1.0",	
+		"name": "All Access pass",
+		"gr":"PVVGE",
+		"alias": "allaccesspass",
+		"description": "Get 100% off all our plugins. Both current and feature plugins. At the moment 700$+ worth of value. You also get 50% off on all the mobile apps.",
+		"image": "https://public-files.gumroad.com/zf4q62m5rqi0lvac23esw4ttm6go",
+		"link": "https://mobidonia.gumroad.com/l/allaccesspassft",
+		"price":"160$"
+	},
+	{
+		"latestVersion":"1.0",	
 		"name": "Expenses",
 		"gr":"NwxgX",
 		"alias": "expenses",
