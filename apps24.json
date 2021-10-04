@@ -7,7 +7,8 @@
 		"description": "Get 100% off on all our plugins. Both current and feature plugins. You also get 50% off on all the mobile apps. ",
 		"image": "https://public-files.gumroad.com/zf4q62m5rqi0lvac23esw4ttm6go",
 		"link": "https://buy.paddle.com/product/736767",
-		"price":"160$"
+		"price":"160$",
+		"category":[]
 	},
 	{
 		"latestVersion":"1.0",	
@@ -37,7 +38,8 @@
 		"description": "This module will enable Stripe Payments in WhatsApp and Stripe Payments in the client mobile app of FoodTiger.",
 		"image": "https://public-files.gumroad.com/1acsae9tx0oh5wcycfhf0mb2n471",
 		"link": "https://mobidonia.gumroad.com/l/stripech",
-		"price":"Free"
+		"price":"Free",
+		"category":["payments"]
 	},
 	{
 		"latestVersion":"1.0",	
@@ -97,7 +99,8 @@
 		"image": "https://i.imgur.com/HvU0w66.jpg",
 		"link": "https://gum.co/BrCxE",
 		"gr":"BrCxE",
-		"price":"69$"
+		"price":"69$",
+		"category":["apps"]
 	},
 	{
 		"rule":"isft",
@@ -108,7 +111,8 @@
 		"image": "https://i.imgur.com/eotWSF0.jpg",
 		"link": "https://gum.co/KhcPaf",
 		"gr":"KhcPaf",
-		"price":"69$"
+		"price":"69$",
+		"category":["apps"]
 	},
 	{
 		"rule":"isft",
@@ -119,7 +123,8 @@
 		"image": "https://i.imgur.com/Z6CfSi7.jpg",
 		"link": "https://gum.co/IYwxI",
 		"gr":"IYwxI",
-		"price":"79$"
+		"price":"79$",
+		"category":["apps"]
 	},
 	{
 		
@@ -152,7 +157,8 @@
 		"description": "Accept payments for orders via PayPal",
 		"image": "https://i.imgur.com/zelnjW8.jpg",
 		"link": "https://gum.co/iUZAu",
-		"price":"Free"
+		"price":"Free",
+		"category":["payments"]
 	},
 	{
 		"latestVersion":"1.0",	
@@ -162,7 +168,8 @@
 		"description": "Accept payments for orders via FlutterWave",
 		"image": "https://public-files.gumroad.com/rxhay4x5aswi3xvg91815j3v6xsi",
 		"link": "https://mobidonia.gumroad.com/l/flutterwavepayments",
-		"price":"Free"
+		"price":"Free",
+		"category":["payments"]
 	},
     	{
 		
@@ -173,7 +180,8 @@
 		"description": "Accept subscriptions for plans via PayPal",
 		"image": "https://i.imgur.com/NeZ2jhj.jpg",
 		"link": "https://gum.co/IksoFZ",
-		"price":"39$"
+		"price":"39$",
+		"category":["subscriptions"]
 	},
 	{
 		
@@ -184,7 +192,8 @@
 		"description": "Accept subscriptions for plans via Paddle",
 		"image": "https://i.imgur.com/YLEU2Ht.jpg",
 		"link": "https://gum.co/KrbHn",
-		"price":"39$"
+		"price":"39$",
+		"category":["subscriptions"]
 	},
 	{
 		
@@ -195,7 +204,8 @@
 		"description": "Accept payments for orders via Mollie",
 		"image": "https://i.imgur.com/px8tL7e.jpg",
 		"link": "https://gum.co/BUsLu",
-		"price":"Free"
+		"price":"Free",
+		"category":["payments"]
 	},
 	{
 		
@@ -206,7 +216,8 @@
 		"description": "Accept payments for orders via Razorpay",
 		"image": "https://i.imgur.com/cDmximk.jpg",
 		"link": "https://gum.co/LcQov",
-		"price":"Free"
+		"price":"Free",
+		"category":["payments"]
 	},
 	{
 		
@@ -217,7 +228,8 @@
 		"description": "Accept payments for orders via Mercadopago",
 		"image": "https://i.imgur.com/BEBNbQT.jpg",
 		"link": "https://gum.co/bOpIe",
-		"price":"Free"
+		"price":"Free",
+		"category":["payments"]
 	},
 	{
 		
@@ -228,7 +240,8 @@
 		"description": "Accept payments for orders via Paystack",
 		"image": "https://i.imgur.com/IPESASN.jpg",
 		"link": "https://gum.co/virSu",
-		"price":"Free"
+		"price":"Free",
+		"category":["payments"]
 	},
 	{
 		"latestVersion":"1.1",	
@@ -238,6 +251,7 @@
 		"description": "Accept payments for orders via PayFast",
 		"image": "https://i.imgur.com/TUzPnfb.jpg",
 		"link": "https://gum.co/qMnRb",
-		"price":"Free"
+		"price":"Free",
+		"category":["payments"]
 	}
 ]
