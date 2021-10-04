@@ -1,0 +1,258 @@
+
+[
+	{
+		"latestVersion":"1.0",	
+		"name": "All Access pass",
+		"alias": "allaccesspass",
+		"description": "Get 100% off on all our plugins. Both current and feature plugins. You also get 50% off on all the mobile apps. ",
+		"image": "https://public-files.gumroad.com/zf4q62m5rqi0lvac23esw4ttm6go",
+		"link": "https://buy.paddle.com/product/736767",
+		"price":"160$",
+		"paddle":"736767",
+		"category":[]
+	},
+	{
+		"latestVersion":"1.0",	
+		"name": "Expenses",
+		"gr":"NwxgX",
+		"alias": "expenses",
+		"description": "Track your expenses grouped by vendors and categories.",
+		"image": "https://public-files.gumroad.com/f95bu3a4g1ih306tr6pfmhrsv5p5",
+		"link": "https://mobidonia.gumroad.com/l/expensesft",
+		"price":"49$"
+	},
+	{
+		"latestVersion":"1.0",	
+		"name": "Vendor Cloner",
+		"gr":"pVCjei",
+		"alias": "cloner",
+		"description": "Easily clone/duplicate the vendor together with the setting and the full menu. Useful for multi-branch / similar vendors.",
+		"image": "https://public-files.gumroad.com/lntl7jl89ak4j15u5n3jndtf0jph",
+		"link": "https://mobidonia.gumroad.com/l/clonerft",
+		"price":"39$"
+	},
+	{
+		"latestVersion":"1.0",	
+		"name": "Stripe Link Checkout",
+		"gr":"PcoEZ",
+		"alias": "stripelinks",
+		"description": "This module will enable Stripe Payments in WhatsApp and Stripe Payments in the client mobile app of FoodTiger.",
+		"image": "https://public-files.gumroad.com/1acsae9tx0oh5wcycfhf0mb2n471",
+		"link": "https://mobidonia.gumroad.com/l/stripech",
+		"price":"Free",
+		"category":["payments"]
+	},
+	{
+		"latestVersion":"1.0",	
+		"name": "Google Translate",
+		"gr":"Pncbf",
+		"alias": "googletranslate",
+		"description": "Translate your restaurant menus into multiple languages. You can select what languages you want to display. ",
+		"image": "https://public-files.gumroad.com/fsvtl9ercdqkfng0qwrgvnwccris",
+		"link": "https://mobidonia.gumroad.com/l/googletranslate",
+		"price":"29$"
+	},
+	{
+		"latestVersion":"1.0",	
+		"name": "Staff",
+		"gr":"pgUHA",
+		"alias": "staff",
+		"description": "Add staff to each restaurant, so they can manage the orders.",
+		"image": "https://public-files.gumroad.com/13xmvdpzh2yv6a2f4ynzq2oul895",
+		"link": "https://mobidonia.gumroad.com/l/staffmodule",
+		"price":"39$"
+	},
+	{
+		"latestVersion":"1.0",	
+		"name": "WebHooks",
+		"gr":"JvECq",
+		"alias": "webhooks",
+		"description": "Integrate your project with hundreds of tools via Zappier  Integromat or custom API.",
+		"image": "https://i.imgur.com/het0uiv.jpg",
+		"link": "https://mobidonia.gumroad.com/l/webhooksft",
+		"price":"49$"
+	},
+ 	{
+		"latestVersion":"1.3",	
+		"name": "PDF Invoice",
+		"alias": "pdf-invoice",
+		"gr":"hgUjZ",
+		"description": "Print orders bills on printer or export in PDF",
+		"image": "https://i.imgur.com/7g8X3ll.jpg",
+		"link": "https://gum.co/hgUjZ",
+		"price":"39$"
+	},
+	{
+		"latestVersion":"1.0",	
+		"name": "Impressum",
+		"alias": "impressum",
+		"gr":"BYJuD",
+		"description": "Add Impressum on the bottom of the menu",
+		"image": "https://i.imgur.com/oUdSkIZ.jpg",
+		"link": "https://gum.co/BYJuD",
+		"price":"Free"
+	},
+	{
+		"latestVersion":"1.0",	
+		"name": "Vendor app",
+		"alias": "vendor_app",
+		"description": "Give your vendors mobile app where they can manage the orders ( iOS + Android )",
+		"image": "https://i.imgur.com/HvU0w66.jpg",
+		"link": "https://gum.co/BrCxE",
+		"gr":"BrCxE",
+		"price":"69$",
+		"category":["apps"]
+	},
+	{
+		"rule":"isft",
+		"latestVersion":"1.0",	
+		"name": "Driver app",
+		"alias": "driver_app",
+		"description": "Give your drivers mobile app where they can manage the orders ( iOS + Android )",
+		"image": "https://i.imgur.com/eotWSF0.jpg",
+		"link": "https://gum.co/KhcPaf",
+		"gr":"KhcPaf",
+		"price":"69$",
+		"category":["apps"]
+	},
+	{
+		"rule":"isft",
+		"latestVersion":"1.0",	
+		"name": "Client app",
+		"alias": "client_app",
+		"description": "Give your clients mobile app where they can make orders from your vendors ( iOS + Android )",
+		"image": "https://i.imgur.com/Z6CfSi7.jpg",
+		"link": "https://gum.co/IYwxI",
+		"gr":"IYwxI",
+		"price":"79$",
+		"category":["apps"]
+	},
+	{
+		
+		"latestVersion":"1.0",	
+		"name": "Custom Timezone",
+		"alias": "timezone",
+		"gr":"GpTmO",
+		"description": "Give your vendors option to set their own timezone",
+		"image": "https://i.imgur.com/2jTCYsg.jpg",
+		"link": "https://gum.co/GpTmO",
+		"price":"29$"
+	},
+	{
+		
+		"latestVersion":"1.0",	
+		"name": "Automated Printing",
+		"alias": "print-node",
+		"gr":"uELYLr",
+		"description": "Automated printing on thermal and regular printer. Via printnode.com",
+		"image": "https://i.imgur.com/lDVhR9p.jpg",
+		"link": "https://mobidonia.gumroad.com/l/thermalft",
+		"price":"49$"
+	},
+	{
+		
+		"latestVersion":"1.0",	
+		"name": "PayPal Payments",
+		"alias": "paypal",
+		"gr":"iUZAu",
+		"description": "Accept payments for orders via PayPal",
+		"image": "https://i.imgur.com/zelnjW8.jpg",
+		"link": "https://gum.co/iUZAu",
+		"price":"Free",
+		"category":["payments"]
+	},
+	{
+		"latestVersion":"1.0",	
+		"name": "FlutterWave",
+		"alias": "flutterwave",
+		"gr":"ETrYd",
+		"description": "Accept payments for orders via FlutterWave",
+		"image": "https://public-files.gumroad.com/rxhay4x5aswi3xvg91815j3v6xsi",
+		"link": "https://mobidonia.gumroad.com/l/flutterwavepayments",
+		"price":"Free",
+		"category":["payments"]
+	},
+    	{
+		
+		"latestVersion":"2.0",	
+		"name": "PayPal Subscribe",
+		"alias": "paypal-subscribe",
+		"gr":"IksoFZ",
+		"description": "Accept subscriptions for plans via PayPal",
+		"image": "https://i.imgur.com/NeZ2jhj.jpg",
+		"link": "https://gum.co/IksoFZ",
+		"price":"39$",
+		"category":["subscriptions"]
+	},
+	{
+		
+		"latestVersion":"1.0",	
+		"name": "Paddle Subscribe",
+		"alias": "paddle-subscribe",
+		"gr":"KrbHn",
+		"description": "Accept subscriptions for plans via Paddle",
+		"image": "https://i.imgur.com/YLEU2Ht.jpg",
+		"link": "https://gum.co/KrbHn",
+		"price":"39$",
+		"category":["subscriptions"]
+	},
+	{
+		
+		"latestVersion":"1.0",	
+		"name": "Mollie Payments",
+		"alias": "mollie",
+		"gr":"BUsLu",
+		"description": "Accept payments for orders via Mollie",
+		"image": "https://i.imgur.com/px8tL7e.jpg",
+		"link": "https://gum.co/BUsLu",
+		"price":"Free",
+		"category":["payments"]
+	},
+	{
+		
+		"latestVersion":"1.1",	
+		"name": "Razorpay Payments",
+		"alias": "razorpay",
+		"gr":"LcQov",
+		"description": "Accept payments for orders via Razorpay",
+		"image": "https://i.imgur.com/cDmximk.jpg",
+		"link": "https://gum.co/LcQov",
+		"price":"Free",
+		"category":["payments"]
+	},
+	{
+		
+		"latestVersion":"1.2",	
+		"name": "Mercadopago Payments",
+		"alias": "mercadopago",
+		"gr":"bOpIe",
+		"description": "Accept payments for orders via Mercadopago",
+		"image": "https://i.imgur.com/BEBNbQT.jpg",
+		"link": "https://gum.co/bOpIe",
+		"price":"Free",
+		"category":["payments"]
+	},
+	{
+		
+		"latestVersion":"2.0",	
+		"name": "Paystack Payments",
+		"alias": "paystack",
+		"gr":"virSu",
+		"description": "Accept payments for orders via Paystack",
+		"image": "https://i.imgur.com/IPESASN.jpg",
+		"link": "https://gum.co/virSu",
+		"price":"Free",
+		"category":["payments"]
+	},
+	{
+		"latestVersion":"1.1",	
+		"name": "PayFast Payments",
+		"alias": "payfast",
+		"gr":"qMnRb",
+		"description": "Accept payments for orders via PayFast",
+		"image": "https://i.imgur.com/TUzPnfb.jpg",
+		"link": "https://gum.co/qMnRb",
+		"price":"Free",
+		"category":["payments"]
+	}
+]
