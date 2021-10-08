@@ -234,13 +234,24 @@
 	},
 	{
 		
-		"latestVersion":"2.1",	
+		"latestVersion":"2.2",	
 		"name": "Paystack Payments",
 		"alias": "paystack",
 		"gr":"virSu",
 		"description": "Accept payments for orders via Paystack",
 		"image": "https://i.imgur.com/IPESASN.jpg",
 		"link": "https://gum.co/virSu",
+		"price":"Free",
+		"category":["payments"]
+	},
+	{
+		"latestVersion":"1.1",	
+		"name": "PayFast Payments",
+		"alias": "payfast",
+		"gr":"qMnRb",
+		"description": "Accept payments for orders via PayFast",
+		"image": "https://i.imgur.com/TUzPnfb.jpg",
+		"link": "https://gum.co/qMnRb",
 		"price":"Free",
 		"category":["payments"]
 	},
