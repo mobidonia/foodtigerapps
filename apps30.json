@@ -234,7 +234,7 @@
 	},
 	{
 		
-		"latestVersion":"2.0",	
+		"latestVersion":"2.1",	
 		"name": "Paystack Payments",
 		"alias": "paystack",
 		"gr":"virSu",
@@ -254,5 +254,15 @@
 		"link": "https://gum.co/qMnRb",
 		"price":"Free",
 		"category":["payments"]
+	},
+	{
+		"latestVersion":"1.0",	
+		"name": "Spanish Translation",
+		"gr":"NwxgX",
+		"alias": "eslang",
+		"description": "Translate your site in Spanish",
+		"image": "https://public-files.gumroad.com/f95bu3a4g1ih306tr6pfmhrsv5p5",
+		"link": "https://mobidonia.gumroad.com/l/expensesft",
+		"price":"49$"
 	}
 ]
