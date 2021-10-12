@@ -174,7 +174,7 @@
 	},
     	{
 		
-		"latestVersion":"2.0",	
+		"latestVersion":"2.1",	
 		"name": "PayPal Subscribe",
 		"alias": "paypal-subscribe",
 		"gr":"IksoFZ",
