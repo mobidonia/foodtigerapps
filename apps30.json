@@ -257,12 +257,13 @@
 	},
 	{
 		"latestVersion":"1.0",	
-		"name": "Spanish Translation",
-		"gr":"NwxgX",
-		"alias": "eslang",
+		"name": "Language pack #1",
+		"gr":"NXsfO",
+		"alias": "langpack1",
 		"description": "Translate your site in Spanish",
-		"image": "https://public-files.gumroad.com/f95bu3a4g1ih306tr6pfmhrsv5p5",
-		"link": "https://mobidonia.gumroad.com/l/expensesft",
-		"price":"49$"
+		"image": "https://public-files.gumroad.com/bkzzc4yqq7jhv2iq8mkfhlv9fdqs",
+		"link": "https://mobidonia.gumroad.com/l/NXsfO",
+		"price":"10$",
+		"category":["languages"]
 	}
 ]
