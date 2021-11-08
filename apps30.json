@@ -22,6 +22,16 @@
 		"price":"49$"
 	},
 	{
+		"latestVersion":"1.0",	
+		"name": "Allergens",
+		"gr":"oEPpzI",
+		"alias": "allergens",
+		"description": "Display allergens on each menu item.",
+		"image": "https://public-files.gumroad.com/gx546h5ezkm4iiaqaxo8vorgn72e",
+		"link": "https://mobidonia.gumroad.com/l/oEPpzI",
+		"price":"49$"
+	},
+	{
 		"rule":"isqrsaas",
 		"latestVersion":"1.0",	
 		"name": "Delivery plpugin",
