@@ -32,9 +32,9 @@
 		"price":"49$"
 	},
 	{
-		"rule":"isqrsaas",
+		"rule":"isqrexact",
 		"latestVersion":"1.0",	
-		"name": "Delivery plpugin",
+		"name": "Delivery plugin",
 		"gr":"peWnw",
 		"alias": "deliveryqr",
 		"description": "Give your vendors the option to do deliveries",
