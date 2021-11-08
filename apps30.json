@@ -13,6 +13,16 @@
 	},
 	{
 		"latestVersion":"1.0",	
+		"name": "Elegant template",
+		"gr":"JZhPWc",
+		"alias": "elegant-template",
+		"description": "New design for your menus",
+		"image": "https://public-files.gumroad.com/leykauu7t3u5pkfphye625m6ysxo",
+		"link": "https://mobidonia.gumroad.com/l/JZhPWc",
+		"price":"29$"
+	},
+	{
+		"latestVersion":"1.0",	
 		"name": "Discount Coupons",
 		"gr":"djizl",
 		"alias": "coupons",
