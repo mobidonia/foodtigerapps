@@ -285,7 +285,20 @@
 		"image": "https://public-files.gumroad.com/l4fbndc46nzvwd4u6myv400yhpcz",
 		"link": "https://mobidonia.gumroad.com/l/kyFdp",
 		"price":"Free"
+	},
+	{
+		"rule":"isqrsaas",
+		"latestVersion":"1.0",	
+		"name": "Feature vendors",
+		"gr":"RuaBRD",
+		"alias": "feautureclients",
+		"description": "Display list of vendors in the landing page",
+		"image": "https://public-files.gumroad.com/i24lmg1trhgkqdwc3uu7u3bzk64j",
+		"link": "https://mobidonia.gumroad.com/l/RuaBRD",
+		"price":"Free"
 	}
+
+	
 
 	
 ]
