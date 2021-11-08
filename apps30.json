@@ -265,5 +265,15 @@
 		"link": "https://mobidonia.gumroad.com/l/NXsfO",
 		"price":"10$",
 		"category":["languages"]
+	},
+	{
+		"latestVersion":"1.0",	
+		"name": "Default tax",
+		"gr":"JSTeg",
+		"alias": "defaulttax",
+		"description": "Set default tax, and option to hide the tax input",
+		"image": "https://public-files.gumroad.com/4i3j5rnp49er19d3bjb5xn1gbx5p",
+		"link": "https://mobidonia.gumroad.com/l/JSTeg",
+		"price":"Free"
 	}
 ]
