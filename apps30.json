@@ -24,6 +24,15 @@
 	},
 	{
 		"latestVersion":"1.0",	
+		"name": "POS Cloud",
+		"alias": "poscloud",
+		"description": "* Not part of All Access Pass. Bring full features POS functionality for your vendors. With this plugin, you also get the staff and expenses modules. ",
+		"image": "https://i.imgur.com/6prlEUD.jpg",
+		"link": "https://codecanyon.net/item/lion-pos-saas-cloud-point-of-sale-script/33733665",
+		"price":"99$"
+	},
+	{
+		"latestVersion":"1.0",	
 		"name": "Custom domain",
 		"gr":"COWDi",
 		"alias": "domain",
