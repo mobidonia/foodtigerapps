@@ -24,6 +24,16 @@
 	},
 	{
 		"latestVersion":"1.0",	
+		"name": "Custom domain",
+		"gr":"COWDi",
+		"alias": "domain",
+		"description": "Allow your vendors to point their domain to their menu in your project",
+		"image": "https://public-files.gumroad.com/fpl7lirbmttn6y7nn2xc45im3qbz",
+		"link": "https://mobidonia.gumroad.com/l/COWDi",
+		"price":"19$"
+	},
+	{
+		"latestVersion":"1.0",	
 		"name": "Discount Coupons",
 		"gr":"djizl",
 		"alias": "coupons",
