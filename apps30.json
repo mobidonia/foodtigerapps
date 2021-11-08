@@ -275,5 +275,18 @@
 		"image": "https://public-files.gumroad.com/4i3j5rnp49er19d3bjb5xn1gbx5p",
 		"link": "https://mobidonia.gumroad.com/l/JSTeg",
 		"price":"Free"
+	},
+	{
+		"latestVersion":"1.0",	
+		"name": "Order prepare time",
+		"gr":"kyFdp",
+		"alias": "timprepare",
+		"description": "Set order prepare time on accept",
+		"image": "https://public-files.gumroad.com/l4fbndc46nzvwd4u6myv400yhpcz",
+		"link": "https://mobidonia.gumroad.com/l/kyFdp",
+		"price":"Free"
 	}
+
+	
 ]
+
