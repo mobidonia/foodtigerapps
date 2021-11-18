@@ -21,7 +21,7 @@
 		"price":"99$"
 	},
 	{
-		"latestVersion":"1.0",	
+		"latestVersion":"1.1",	
 		"name": "Elegant template",
 		"gr":"JZhPWc",
 		"alias": "elegant-template",
@@ -212,7 +212,7 @@
 	},
 	{
 		
-		"latestVersion":"1.0",	
+		"latestVersion":"1.1",	
 		"name": "Automated Printing",
 		"alias": "print-node",
 		"gr":"uELYLr",
@@ -258,8 +258,7 @@
 	},
 	{
 		
-		"latestVersion":"1.0",	
-		"version":"1.1",
+		"latestVersion":"1.2",
 		"name": "Paddle Subscribe",
 		"alias": "paddle-subscribe",
 		"gr":"KrbHn",
