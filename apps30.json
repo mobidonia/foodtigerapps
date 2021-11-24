@@ -4,7 +4,7 @@
 		"latestVersion":"1.0",	
 		"name": "All Access pass",
 		"alias": "allaccesspass",
-		"description": "Get 100% off on all our plugins. Both current and feature plugins. You also get 50% off on all the mobile apps. ",
+		"description": "BlackFriday Code --> BF2021 <---  Get 100% off on all our plugins. Both current and feature plugins. You also get 50% off on all the mobile apps. ",
 		"image": "https://public-files.gumroad.com/zf4q62m5rqi0lvac23esw4ttm6go",
 		"link": "https://buy.paddle.com/product/736767",
 		"price":"160$",
@@ -145,7 +145,7 @@
 		"price":"49$"
 	},
  	{
-		"latestVersion":"1.3",	
+		"latestVersion":"1.4",	
 		"name": "PDF Invoice",
 		"alias": "pdf-invoice",
 		"gr":"hgUjZ",
